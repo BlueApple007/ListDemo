@@ -47,6 +47,7 @@ public class MainActivity extends Activity {
 				return super.getItemViewType(position);
 			}
 		});
+		//我是dev分支新添加的
 		//我是主添加的注释
 	}
 
